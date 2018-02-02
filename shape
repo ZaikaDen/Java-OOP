@@ -1,0 +1,11 @@
+# Java-OOP
+
+package com.gmail.denyszaika;
+
+public abstract class Shape {
+
+	public abstract double getPerimetr();
+
+	public abstract double getArea();
+
+}
